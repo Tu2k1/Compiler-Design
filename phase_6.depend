@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1649837518 source:c:\users\terki\c c++ projects\c_compilerdesign\phase_6\main.c
+	"init.h"
+	"parse.h"
+
+1652776541 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\init.h
+	"global.h"
+	"symbol.h"
+
+1652776541 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1648548149 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\symbol.h
+	"global.h"
+	"error.h"
+
+1649837518 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\error.h
+
+1652776697 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\parse.h
+	"emit.h"
+	"error.h"
+	"lexer.h"
+
+1652769281 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\emit.h
+	"global.h"
+
+1650341914 c:\users\terki\c c++ projects\c_compilerdesign\phase_6\lexer.h
+	"symbol.h"
+
+1649837518 source:d:\tur\qu_projects\phase_6\main.c
+	"init.h"
+	"parse.h"
+
+1652776541 d:\tur\qu_projects\phase_6\init.h
+	"global.h"
+	"symbol.h"
+
+1652776541 d:\tur\qu_projects\phase_6\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1648548149 d:\tur\qu_projects\phase_6\symbol.h
+	"global.h"
+	"error.h"
+
+1649837518 d:\tur\qu_projects\phase_6\error.h
+
+1652776697 d:\tur\qu_projects\phase_6\parse.h
+	"emit.h"
+	"error.h"
+	"lexer.h"
+
+1652769281 d:\tur\qu_projects\phase_6\emit.h
+	"global.h"
+
+1650341914 d:\tur\qu_projects\phase_6\lexer.h
+	"symbol.h"
+

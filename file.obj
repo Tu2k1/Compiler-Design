@@ -1,0 +1,37 @@
+push 20
+pop count
+while0:
+push count
+pop r2
+cmp r2,0
+be endwhile0
+call mult
+call add
+b while0
+endwhile0:
+mult:
+push 15
+pop x
+push 30
+pop y
+push x
+push y
+pop r1
+pop r2
+mult r2,r1
+push r2
+pop z
+ret
+add:
+push 5
+pop a
+push 10
+pop b
+push a
+push b
+pop r1
+pop r2
+add r2,r1
+push r2
+pop c
+ret

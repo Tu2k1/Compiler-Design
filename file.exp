@@ -1,0 +1,22 @@
+begin
+    count = 20;
+    while(count) do
+        begin
+        mult();
+        add();
+        end;
+end
+
+void mult ()
+    begin
+    x = 15;
+    y = 30;
+    z = x * y;
+    end
+void add()
+    begin
+    a = 5;
+    b = 10;
+    c = a + b;
+    end
+
